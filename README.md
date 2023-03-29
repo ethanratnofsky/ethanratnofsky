@@ -74,4 +74,9 @@
 <!-- TODO: Add languages, tools, and skills -->
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 
-<!-- TODO: Add recent activity -->
+<!-- GitHub Recent Activity (https://github.com/jamesgeorge007/github-activity-readme) -->
+---
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+---
