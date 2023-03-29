@@ -78,4 +78,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#28](https://github.com/nightlight-app/nightlight-frontend/pull/28) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+2. 💪 Opened PR [#28](https://github.com/nightlight-app/nightlight-frontend/pull/28) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+3. 💪 Opened PR [#27](https://github.com/nightlight-app/nightlight-frontend/pull/27) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+4. 🎉 Merged PR [#22](https://github.com/nightlight-app/nightlight-frontend/pull/22) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+5. 🎉 Merged PR [#40](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/40) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+<!--END_SECTION:activity-->
 ---
