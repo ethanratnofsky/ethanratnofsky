@@ -10,7 +10,7 @@
 </a>
 
 <!-- Profile View Count (https://github.com/antonkomarev/github-profile-views-counter) -->
-<img src="https://komarev.com/ghpvc/?username=ethanratnofsky&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile View Count Badge" />
+<img src="https://komarev.com/ghpvc/?username=ethanratnofsky&style=for-the-badge&color=red&label=VISITORS" alt="Visitor Count Badge" />
 </div>
 
 <br />
