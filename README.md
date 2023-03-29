@@ -16,7 +16,7 @@
 <br />
 
 <div id="gh-stats" align="center">
-<!-- GitHub Streak -->
+<!-- GitHub Streak (https://github.com/DenverCoder1/github-readme-streak-stats) -->
 <picture>
     <!-- Rendered in Dark Mode -->
     <source
