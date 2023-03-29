@@ -67,7 +67,7 @@
 </div>
 
 > **Note**
-> "Most Used Languages" is simply a metric of the programming languages that my public code consists of and may not accurately reflect experience or proficiency.
+> "Most Used Languages" is simply a metric of the languages that my public code consists of and may not accurately reflect experience or proficiency.
 
 </div>
 
