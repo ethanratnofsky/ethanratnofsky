@@ -39,30 +39,30 @@
 <picture>
     <!-- Rendered in Dark Mode -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ethanratnofsky&count_private=true&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats-ethanratnofsky.vercel.app/api?username=ethanratnofsky&count_private=true&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <!-- Rendered in Light Mode or No Preference -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ethanratnofsky&count_private=true&show_icons=true&theme=default"
+        srcset="https://github-readme-stats-ethanratnofsky.vercel.app/api?username=ethanratnofsky&count_private=true&show_icons=true&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=ethanratnofsky&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats-ethanratnofsky.vercel.app/api?username=ethanratnofsky&count_private=true&show_icons=true" />
 </picture>
 
 <!-- Most Used Languages -->
 <picture>
     <!-- Rendered in Dark Mode -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanratnofsky&langs_count=10&layout=compact&theme=dark"
+        srcset="https://github-readme-stats-ethanratnofsky.vercel.app/api/top-langs/?username=ethanratnofsky&langs_count=10&layout=compact&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <!-- Rendered in Light Mode or No Preference -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanratnofsky&langs_count=10&layout=compact&theme=default"
+        srcset="https://github-readme-stats-ethanratnofsky.vercel.app/api/top-langs/?username=ethanratnofsky&langs_count=10&layout=compact&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanratnofsky&langs_count=10&layout=compact" width=355 />
+    <img src="https://github-readme-stats-ethanratnofsky.vercel.app/api/top-langs/?username=ethanratnofsky&langs_count=10&layout=compact" width=308 />
 </picture>
 </div>
 
