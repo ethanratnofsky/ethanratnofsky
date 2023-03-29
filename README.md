@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/43038541/228653791-0cacbf29-c92b-4600-a715-628ea90a8f32.svg" alt="Cartoon Representation of Ethan Ratnofsky" width=400 />
+</div>
+
+<br>
+
 <div id="badges" align="center">
 <!-- Personal Website Badge (https://shields.io/) --->
 <a href="https://www.ethanratnofsky.com/">
@@ -31,8 +37,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanratnofsky" alt="Ethan's GitHub Streak Stats" />
 </picture>
 
-<br />
-<br />
+<br>
+<br>
 
 <!-- GitHub Stats (https://github.com/anuraghazra/github-readme-stats) -->
 <div>
