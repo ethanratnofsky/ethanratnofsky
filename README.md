@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/42) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
-2. ❌ Closed PR [#38](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/38) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
-3. 🎉 Merged PR [#27](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/27) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
-4. 🎉 Merged PR [#41](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/41) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
-5. 💪 Opened PR [#41](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/41) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+1. 🎉 Merged PR [#31](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/31) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
+2. 🎉 Merged PR [#42](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/42) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+3. ❌ Closed PR [#38](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/38) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+4. 🎉 Merged PR [#27](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/27) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
+5. 🎉 Merged PR [#41](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/41) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
 <!--END_SECTION:activity-->
 ---
