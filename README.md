@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/36) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
-2. 🎉 Merged PR [#29](https://github.com/nightlight-app/nightlight-frontend/pull/29) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-3. 🎉 Merged PR [#1](https://github.com/ethanratnofsky/github-readme-stats/pull/1) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-4. 💪 Opened PR [#29](https://github.com/nightlight-app/nightlight-frontend/pull/29) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-5. 🎉 Merged PR [#28](https://github.com/nightlight-app/nightlight-frontend/pull/28) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+1. 🎉 Merged PR [#41](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/41) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+2. 💪 Opened PR [#41](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/41) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+3. 🎉 Merged PR [#35](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/35) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+4. 🎉 Merged PR [#29](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/29) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
+5. 🎉 Merged PR [#36](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/36) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
 <!--END_SECTION:activity-->
 ---
