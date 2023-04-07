@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/nightlight-app/nightlight-frontend/pull/32) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-2. 💪 Opened PR [#33](https://github.com/nightlight-app/nightlight-frontend/pull/33) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-3. 🗣 Commented on [#25](https://github.com/nightlight-app/nightlight-backend/issues/25) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-4. 🎉 Merged PR [#44](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/44) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
-5. 🗣 Commented on [#24](https://github.com/nightlight-app/nightlight-backend/issues/24) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+1. 🎉 Merged PR [#34](https://github.com/nightlight-app/nightlight-frontend/pull/34) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+2. 🎉 Merged PR [#32](https://github.com/nightlight-app/nightlight-frontend/pull/32) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+3. 💪 Opened PR [#33](https://github.com/nightlight-app/nightlight-frontend/pull/33) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+4. 🗣 Commented on [#25](https://github.com/nightlight-app/nightlight-backend/issues/25) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+5. 🎉 Merged PR [#44](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/44) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
 <!--END_SECTION:activity-->
 ---
