@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/nightlight-app/nightlight-frontend/pull/40) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-2. 💪 Opened PR [#38](https://github.com/nightlight-app/nightlight-frontend/pull/38) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-3. 🎉 Merged PR [#13](https://github.com/ethanratnofsky/Tripful/pull/13) in [ethanratnofsky/Tripful](https://github.com/ethanratnofsky/Tripful)
-4. 💪 Opened PR [#13](https://github.com/ethanratnofsky/Tripful/pull/13) in [ethanratnofsky/Tripful](https://github.com/ethanratnofsky/Tripful)
-5. 💪 Opened PR [#12](https://github.com/ethanratnofsky/Tripful/pull/12) in [ethanratnofsky/Tripful](https://github.com/ethanratnofsky/Tripful)
+1. 💪 Opened PR [#41](https://github.com/nightlight-app/nightlight-frontend/pull/41) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+2. 💪 Opened PR [#40](https://github.com/nightlight-app/nightlight-frontend/pull/40) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+3. 💪 Opened PR [#38](https://github.com/nightlight-app/nightlight-frontend/pull/38) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+4. 🎉 Merged PR [#13](https://github.com/ethanratnofsky/Tripful/pull/13) in [ethanratnofsky/Tripful](https://github.com/ethanratnofsky/Tripful)
+5. 💪 Opened PR [#13](https://github.com/ethanratnofsky/Tripful/pull/13) in [ethanratnofsky/Tripful](https://github.com/ethanratnofsky/Tripful)
 <!--END_SECTION:activity-->
 ---
