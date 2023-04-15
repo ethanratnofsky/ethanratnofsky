@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/nightlight-app/nightlight-backend/issues/31) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-2. 🗣 Commented on [#27](https://github.com/nightlight-app/nightlight-backend/issues/27) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-3. 🎉 Merged PR [#27](https://github.com/nightlight-app/nightlight-backend/pull/27) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-4. 💪 Opened PR [#30](https://github.com/nightlight-app/nightlight-backend/pull/30) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-5. 🎉 Merged PR [#14](https://github.com/ethanratnofsky/Tripful/pull/14) in [ethanratnofsky/Tripful](https://github.com/ethanratnofsky/Tripful)
+1. 🎉 Merged PR [#46](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/46) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+2. 💪 Opened PR [#46](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/46) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
+3. 🗣 Commented on [#31](https://github.com/nightlight-app/nightlight-backend/issues/31) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+4. 🗣 Commented on [#27](https://github.com/nightlight-app/nightlight-backend/issues/27) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+5. 🎉 Merged PR [#27](https://github.com/nightlight-app/nightlight-backend/pull/27) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
 ---
