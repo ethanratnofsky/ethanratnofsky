@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ethanratnofsky/github-readme-stats/pull/4) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-2. 🎉 Merged PR [#46](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/46) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
-3. 💪 Opened PR [#46](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/46) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
-4. 🎉 Merged PR [#2](https://github.com/ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo/pull/2) in [ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo](https://github.com/ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo)
-5. 🎉 Merged PR [#4](https://github.com/ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo/pull/4) in [ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo](https://github.com/ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo)
+1. 🎉 Merged PR [#5](https://github.com/ethanratnofsky/github-readme-stats/pull/5) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+2. 🎉 Merged PR [#4](https://github.com/ethanratnofsky/github-readme-stats/pull/4) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+3. 🎉 Merged PR [#46](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/46) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
+4. 💪 Opened PR [#46](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/46) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
+5. 🎉 Merged PR [#2](https://github.com/ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo/pull/2) in [ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo](https://github.com/ethanratnofsky/VandyHacks-Mentorship-Pod-6-Demo)
 <!--END_SECTION:activity-->
 ---
