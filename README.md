@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ethanratnofsky/github-readme-stats/pull/8) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-2. 🎉 Merged PR [#7](https://github.com/ethanratnofsky/github-readme-stats/pull/7) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-3. 🎉 Merged PR [#6](https://github.com/ethanratnofsky/github-readme-stats/pull/6) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-4. 🎉 Merged PR [#50](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/50) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
-5. 🎉 Merged PR [#47](https://github.com/ChangePlusPlusVandy/hfc-frontend/pull/47) in [ChangePlusPlusVandy/hfc-frontend](https://github.com/ChangePlusPlusVandy/hfc-frontend)
+1. 🎉 Merged PR [#9](https://github.com/ethanratnofsky/github-readme-stats/pull/9) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+2. 🎉 Merged PR [#8](https://github.com/ethanratnofsky/github-readme-stats/pull/8) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+3. 🎉 Merged PR [#7](https://github.com/ethanratnofsky/github-readme-stats/pull/7) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+4. 🎉 Merged PR [#6](https://github.com/ethanratnofsky/github-readme-stats/pull/6) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+5. 🎉 Merged PR [#50](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/50) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
 <!--END_SECTION:activity-->
 ---
