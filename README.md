@@ -86,10 +86,10 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/ethanratnofsky/github-readme-stats/pull/9) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-2. 🎉 Merged PR [#8](https://github.com/ethanratnofsky/github-readme-stats/pull/8) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-3. 🎉 Merged PR [#7](https://github.com/ethanratnofsky/github-readme-stats/pull/7) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
-4. 🎉 Merged PR [#6](https://github.com/ethanratnofsky/github-readme-stats/pull/6) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+1. 🎉 Merged PR [#10](https://github.com/ethanratnofsky/github-readme-stats/pull/10) in [ethanratnofsky/github-readme-stats](https://github.com/ethanratnofsky/github-readme-stats)
+2. 🔒 Closed issue [#1](https://github.com/ethanratnofsky/Plus/issues/1) in [ethanratnofsky/Plus](https://github.com/ethanratnofsky/Plus)
+3. ❗ Opened issue [#1](https://github.com/ethanratnofsky/Plus/issues/1) in [ethanratnofsky/Plus](https://github.com/ethanratnofsky/Plus)
+4. 🔒 Closed issue [#1](https://github.com/ethanratnofsky/Feel-HN/issues/1) in [ethanratnofsky/Feel-HN](https://github.com/ethanratnofsky/Feel-HN)
 5. 🎉 Merged PR [#50](https://github.com/ChangePlusPlusVandy/hfc-backend/pull/50) in [ChangePlusPlusVandy/hfc-backend](https://github.com/ChangePlusPlusVandy/hfc-backend)
 <!--END_SECTION:activity-->
 ---
